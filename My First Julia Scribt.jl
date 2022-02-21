@@ -1,3 +1,3 @@
 x = 10
 y = 20
-sum(x, y)
+sum(abs, Int64[x,y])
